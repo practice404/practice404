@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Swayam's Gmail">
 </a>
 
+[](https://visitor-badge.glitch.me/badge?page_id=practice404.practice404)
+
 ### _About me_ :
 * 🌱 Currently I'm pursuing bachelor's degree in technology from India.
 * 🙂 I like to travel, music and reading horror genre 👻.
