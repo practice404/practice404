@@ -25,6 +25,7 @@
 ### _About me_ :
 * 🌱 Currently I'm pursuing bachelor's degree in technology from India.
 * 🙂 I like to travel, music and reading horror genre 👻.
+* 🔍 ![](https://visitor-badge.glitch.me/badge?page_id=practice404.practice404)
 * ✍🏻 **_Portfolio_** <a href="https://practice404.github.io/portfolio/">Here</a>
 
 ### _Technology Stack_ : 
