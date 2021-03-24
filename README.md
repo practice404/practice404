@@ -34,6 +34,3 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=practice404&show_icons=true&theme=radical)
-
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/xt4ldmbx2mvl22lk3zh8a445p)
-
