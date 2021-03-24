@@ -33,4 +33,4 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-[![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=practice404)](https://github.com/practice404/github-readme-stats)
+![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=practice404&show_icons=true&theme=radical)
