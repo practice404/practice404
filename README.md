@@ -26,7 +26,10 @@
 * 🌱 Currently I'm pursuing bachelor's degree in technology from India.
 * 🙂 I like to travel, music and reading horror genre 👻.
 * 🔍 ![](https://visitor-badge.glitch.me/badge?page_id=practice404.practice404)
-* ✍🏻 **_Blog_** <a href="https://s-w-a-y-a-m.medium.com/">Here</a>
+* ✍🏻 **_Blog_** 
+*<a href="https://s-w-a-y-a-m.medium.com/">Medium</a>
+*<a href="https://swayam-blog.hashnode.dev/">Hashnode</a> 
+*<a href="https://dev.to/_s_w_a_y_a_m_">Dev.to</a> 
 
 ### _Technology Stack_ : 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
