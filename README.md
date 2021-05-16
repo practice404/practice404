@@ -26,10 +26,10 @@
 * 🌱 Currently I'm pursuing bachelor's degree in technology from India.
 * 🙂 I like to travel, music and reading horror genre 👻.
 * 🔍 ![](https://visitor-badge.glitch.me/badge?page_id=practice404.practice404)
-* ✍🏻 **_Blog_** 
-&nbsp;&nbsp;&nbsp;1. <a href="https://s-w-a-y-a-m.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-&nbsp;&nbsp;&nbsp;2. <a href="https://swayam-blog.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Swayam's Hashnode Profile"></a> 
-&nbsp;&nbsp;&nbsp;3. <a href="https://dev.to/_s_w_a_y_a_m_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Swayam's DEV Community Profile"></a> 
+* ✍🏻 **_Blog :=> _** 
+&nbsp;&nbsp;&nbsp; <a href="https://s-w-a-y-a-m.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp; <a href="https://swayam-blog.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Swayam's Hashnode Profile"></a> 
+&nbsp;&nbsp;&nbsp; <a href="https://dev.to/_s_w_a_y_a_m_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Swayam's DEV Community Profile"></a> 
 
 ### _Technology Stack_ : 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
