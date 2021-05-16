@@ -26,8 +26,7 @@
 * 🌱 Currently I'm pursuing bachelor's degree in technology from India.
 * 🙂 I like to travel, music and reading horror genre 👻.
 * 🔍 ![](https://visitor-badge.glitch.me/badge?page_id=practice404.practice404)
-* ✍🏻 **_Blog_** 
-* <a href="https://s-w-a-y-a-m.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+* ✍🏻 **_Blog_** <a href="https://s-w-a-y-a-m.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 * <a href="https://swayam-blog.hashnode.dev/">Hashnode</a> 
 * <a href="https://dev.to/_s_w_a_y_a_m_">Dev.to</a> 
 
