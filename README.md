@@ -24,7 +24,7 @@
 
 ### _About me_ :
 * 🌱 Currently I'm pursuing bachelor's degree in technology from India.
-* ⌛️ right nowI'm trying my hands on Machine Learning
+* ⌛️ Right now I'm trying my hands on Machine Learning
 * 🙂 I like to travel, music and reading horror genre 👻.
 * 🔍 ![](https://visitor-badge.glitch.me/badge?page_id=practice404.practice404)
 * ✍🏻 **_Blog :=> _** 
