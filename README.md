@@ -1,5 +1,5 @@
 # Hey there, I'm Swayam Singh 🙋🏼‍♂️ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I am a Full Stack Developer, ML enthusiast and Blogger ✍🏻. 
+## I am a Full Stack Developer and Blogger ✍🏻. 
 
 ### *Connect with me :*
 
